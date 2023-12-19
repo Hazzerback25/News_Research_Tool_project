@@ -10,3 +10,7 @@ This is an End-to-End LLM project which takes in a bunch of news article URLs an
 - RecursiveCharacterTextSplitter is used to divide the data into chunks to provide a more accurate output while reducing the API cost.
 - FAISS with it's IndexFlatL2 (for search using Euclidean distance) is used to index the OpenAI embeddings of the data chunks.
 
+<video controls width="500">
+  <source src="URL_OF_YOUR_VIDEO.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
