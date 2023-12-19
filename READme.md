@@ -1,4 +1,4 @@
-# News Recognition Tool
+# News Research Tool
 
 This is an End-to-End LLM project which takes in a bunch of news article URLs and when prompted, the model retrievs the answer from our aggregate knowledge base.
 
