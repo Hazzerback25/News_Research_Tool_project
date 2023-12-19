@@ -2,7 +2,7 @@
 
 This is an End-to-End LLM project which takes in a bunch of news article URLs and when prompted, the model retrievs the answer from our aggregate knowledge base.
 
-##Technologies used
+## Technologies used
 -Python, LangChain, OpenAI API and FAISS indexing
 
 ## Features
