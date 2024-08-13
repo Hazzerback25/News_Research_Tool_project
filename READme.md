@@ -3,7 +3,7 @@
 This is an End-to-End LLM project which takes in a bunch of news article URLs and when prompted, the model retrievs the answer from our aggregate knowledge base.
 
 ## Technologies used
--Python, LangChain, OpenAI API and FAISS indexing
+-Python, LangChain, OpenAI API, Streamlit and FAISS indexing
 
 ## Features
 - Makes use of UnstructuresURLLoad to collect and store the unstructured text data from various articles.
